@@ -3040,3 +3040,42 @@
 			}
 
 	}
+
+	#location {
+	    font-size: 10px;
+	}
+
+    #me-name {
+        font-size: 20px;
+    }
+
+    .section-headline {
+        text-transform: uppercase;
+    }
+
+    .history, .history li {
+        padding: 0;
+    }
+
+    .history li {
+        list-style: none;
+    }
+
+    .history-item {
+        margin-bottom: 100px;
+    }
+
+    .history-role {
+        font-size: 11px;
+        text-align: right;
+        bottom: 0;
+        line-height: 3em;
+    }
+
+    .history-story {
+        padding: 20px 0 0 0;
+    }
+
+    .history-tags {
+        padding: 20px 0 0 0;
+    }
